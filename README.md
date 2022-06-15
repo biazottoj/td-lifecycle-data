@@ -8,13 +8,20 @@ Although Technical Debt (TD) has gained more attention in recent years, most stu
 
 ## Structure of the replication package:
 
+We created a technical debt dataset containing 3,000 issues from five Apache open-source projects, each item is tagged as non-SATD or different types of SATD (technical-debt-issues-dataset.csv). 
+
 ```
 ├── LICENSE
 ├── README.md
-├── 
-└── 
+├── technical-debt-issues-dataset.csv
+├── manually-analyze-issues.csv
+├── RQ1-issues-fixed-introduced-commits.csv
+├── RQ2-intervals.csv
+├── RQ3-identification-latency.csv
+├── RQ3-discussion-period.csv
+├── RQ3-remediation-latency.csv
+└── RQ3-remediation-latency-without-discussion.csv
 ```
-
 
 ## Paper
 
