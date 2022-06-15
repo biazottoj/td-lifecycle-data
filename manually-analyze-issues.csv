@@ -393,5 +393,5 @@ THRIFT,2279,description,"TSerializer copies from the transport into a 1024 lengt
 THRIFT,2328,comment_0,committed fix removing lint check for unchecked casts. compile output,Code-LQualCd,yes,567df43e80b46bf8537875c1ac817c8f9af6277b
 THRIFT,2328,description,I don't like compiler warnings such as these: patches are welcome! -roger,Code-LQualCd,yes,567df43e80b46bf8537875c1ac817c8f9af6277b
 THRIFT,2328,summary,Java: eliminate all compiler warnings,Code-LQualCd,yes,567df43e80b46bf8537875c1ac817c8f9af6277b
-THRIFT,2328,comment_2,@  we should keep this check: "Some input files use unchecked or unsafe operations." ;-r,Code-LQualCd,yes,98d9ef2bd675e16dde9304061f71b6435caa5cf8
+THRIFT,2328,comment_2,@  we should keep this check: Some input files use unchecked or unsafe operations. ;-r,Code-LQualCd,yes,98d9ef2bd675e16dde9304061f71b6435caa5cf8
 THRIFT,240,description,"Now that we have a deep copy constructor, TBase should implement cloneable.",Design-Des,yes,4371038cd1e1a0a0ef5283bfd540c7623fbe7514
