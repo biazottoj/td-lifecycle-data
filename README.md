@@ -8,7 +8,7 @@ Although Technical Debt (TD) has gained more attention in recent years, most stu
 
 ## Structure of the replication package:
 
-We created a technical debt dataset containing 3,000 issues from five Apache open-source projects, each item is tagged as non-SATD or different types of SATD (technical-debt-issues-dataset.csv). 
+We created a technical debt dataset containing 3,000 issues from the trackers of five Apache open-source projects, each item is tagged as non-SATD or different types of SATD (technical-debt-issues-dataset.csv). Among those 3000 issues, we randomly selected 200 issues, matched them to the corresponding commits and then, we manually analyzed if each technical debt item was actually fixed in source code (manually-analyze-issues.csv). We also provided the detailed datasets to answer each reseach question. 
 
 ```
 ├── LICENSE
