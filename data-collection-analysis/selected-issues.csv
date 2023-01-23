@@ -1,0 +1,94 @@
+issue	status
+camel-11524	ok
+camel-1173	ok
+camel-12166	ok
+camel-12414	ok
+camel-1734	ok
+camel-2559	ok
+camel-3112	ok
+camel-3125	ok
+hadoop-12002	ok
+hadoop-12496	ok
+hadoop-13158	ok
+hadoop-14351	ok
+hadoop-14942	ok
+hadoop-6151	ok
+hadoop-6839	ok
+hadoop-6925	ok
+hadoop-6988	ok
+hbase-12673	ok
+hbase-13871	ok
+hbase-14161	ok
+hbase-15490	ok
+hbase-16157	ok
+hbase-19815	ok
+hbase-20100	ok
+hbase-20108	ok
+hbase-20696	ok
+hbase-21589	ok
+impala-1082	ok
+impala-2724	ok
+impala-326	ok
+impala-4485	ok
+impala-4833	ok
+impala-5273	ok
+impala-530	ok
+impala-5341	ok
+impala-5636	ok
+impala-5688	ok
+thrift-1990	ok
+thrift-2555	ok
+thrift-2561	ok
+thrift-2568	ok
+thrift-2666	ok
+thrift-2768	ok
+Thrift-568	ok
+Thrift-617	ok
+camel-4793	
+camel-5012	
+camel-7071	
+camel-8174	
+camel-946	
+camel-9499	
+camel-9616	
+camel-9752	
+hadoop-9267	
+hadoop-9440	
+hadoop-9674	
+hbase-10083	
+hbase-10702	
+hbase-11612	
+hbase-12030	
+hbase-12115	
+hbase-12271	
+hbase-22174	
+hbase-239	
+hbase-274	
+hbase-2969	
+hbase-3625	
+hbase-4303	
+hbase-4437	
+hbase-5333	
+hbase-5595	
+hbase-6050	
+hbase-6184	
+hbase-6969	
+hbase-9806	
+impala-4423	
+impala-6132	
+impala-6858	
+impala-7205	
+impala-7350	
+impala-8771	
+thrift-2333	
+thrift-2759	
+thrift-2932	
+thrift-3040	
+thrift-3364	
+thrift-3592	
+thrift-3619	
+thrift-3731	
+thrift-3905	
+thrift-4014	
+thrift-4546	
+thrift-503	
